@@ -2,7 +2,7 @@
 
 **Summary:**
 
-This webpage was created specifically for [Udacity's Front End Developer Developer Nanodegree](https://www.udacity.com).
+This webpage was created specifically for [Udacity's Front End Developer Nanodegree](https://www.udacity.com).
 
 **The application offers the following features:**
 
